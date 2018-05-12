@@ -1,0 +1,12 @@
+
+* get Column
+std::vector<float> close = doc.GetColumn<float>("Close");
+* set cell
+doc.SetCell<int>(0, 0, 3);
+doc.SetCell<std::string>("A", "2", "4");
+* get cell with row index (first column)
+long long volume = doc.GetCell<long long>("Volume", "2011-03-09");
+
+
+    void SetColumn(const size_t pColumnIdx, const std::vector<T>& pColumn)
+    size_t GetRowCount() const

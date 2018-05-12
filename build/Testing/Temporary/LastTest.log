@@ -1,0 +1,738 @@
+Start testing: Apr 12 14:09 AEST
+----------------------------------------------------------
+1/49 Testing: test001
+1/49 Test: test001
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test001"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test001" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"test001" end time: Apr 12 14:09 AEST
+"test001" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/49 Testing: test002
+2/49 Test: test002
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test002"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test002" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test002" end time: Apr 12 14:09 AEST
+"test002" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/49 Testing: test003
+3/49 Test: test003
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test003"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test003" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test003" end time: Apr 12 14:09 AEST
+"test003" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/49 Testing: test004
+4/49 Test: test004
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test004"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test004" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test004" end time: Apr 12 14:09 AEST
+"test004" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/49 Testing: test005
+5/49 Test: test005
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test005"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test005" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test005" end time: Apr 12 14:09 AEST
+"test005" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/49 Testing: test006
+6/49 Test: test006
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test006"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test006" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test006" end time: Apr 12 14:09 AEST
+"test006" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/49 Testing: test007
+7/49 Test: test007
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test007"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test007" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test007" end time: Apr 12 14:09 AEST
+"test007" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/49 Testing: test008
+8/49 Test: test008
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test008"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test008" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test008" end time: Apr 12 14:09 AEST
+"test008" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/49 Testing: test009
+9/49 Test: test009
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test009"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test009" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test009" end time: Apr 12 14:09 AEST
+"test009" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/49 Testing: test010
+10/49 Test: test010
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test010"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test010" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test010" end time: Apr 12 14:09 AEST
+"test010" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/49 Testing: test011
+11/49 Test: test011
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test011"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test011" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test011" end time: Apr 12 14:09 AEST
+"test011" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/49 Testing: test012
+12/49 Test: test012
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test012"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test012" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test012" end time: Apr 12 14:09 AEST
+"test012" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/49 Testing: test013
+13/49 Test: test013
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test013"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test013" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test013" end time: Apr 12 14:09 AEST
+"test013" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/49 Testing: test014
+14/49 Test: test014
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test014"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test014" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test014" end time: Apr 12 14:09 AEST
+"test014" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/49 Testing: test015
+15/49 Test: test015
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test015"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test015" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test015" end time: Apr 12 14:09 AEST
+"test015" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/49 Testing: test016
+16/49 Test: test016
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test016"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test016" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test016" end time: Apr 12 14:09 AEST
+"test016" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/49 Testing: test017
+17/49 Test: test017
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test017"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test017" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test017" end time: Apr 12 14:09 AEST
+"test017" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/49 Testing: test018
+18/49 Test: test018
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test018"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test018" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test018" end time: Apr 12 14:09 AEST
+"test018" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/49 Testing: test019
+19/49 Test: test019
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test019"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test019" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test019" end time: Apr 12 14:09 AEST
+"test019" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/49 Testing: test020
+20/49 Test: test020
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test020"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test020" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test020" end time: Apr 12 14:09 AEST
+"test020" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/49 Testing: test021
+21/49 Test: test021
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test021"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test021" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test021" end time: Apr 12 14:09 AEST
+"test021" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/49 Testing: test022
+22/49 Test: test022
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test022"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test022" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test022" end time: Apr 12 14:09 AEST
+"test022" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/49 Testing: test023
+23/49 Test: test023
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test023"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test023" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test023" end time: Apr 12 14:09 AEST
+"test023" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/49 Testing: test024
+24/49 Test: test024
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test024"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test024" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test024" end time: Apr 12 14:09 AEST
+"test024" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/49 Testing: test025
+25/49 Test: test025
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test025"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test025" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test025" end time: Apr 12 14:09 AEST
+"test025" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/49 Testing: test026
+26/49 Test: test026
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test026"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test026" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test026" end time: Apr 12 14:09 AEST
+"test026" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/49 Testing: test027
+27/49 Test: test027
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test027"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test027" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test027" end time: Apr 12 14:09 AEST
+"test027" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/49 Testing: test028
+28/49 Test: test028
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test028"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test028" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test028" end time: Apr 12 14:09 AEST
+"test028" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/49 Testing: test029
+29/49 Test: test029
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test029"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test029" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test029" end time: Apr 12 14:09 AEST
+"test029" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/49 Testing: test030
+30/49 Test: test030
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test030"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test030" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test030" end time: Apr 12 14:09 AEST
+"test030" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/49 Testing: test031
+31/49 Test: test031
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test031"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test031" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test031" end time: Apr 12 14:09 AEST
+"test031" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/49 Testing: test032
+32/49 Test: test032
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test032"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test032" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test032" end time: Apr 12 14:09 AEST
+"test032" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/49 Testing: test033
+33/49 Test: test033
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test033"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test033" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test033" end time: Apr 12 14:09 AEST
+"test033" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/49 Testing: test034
+34/49 Test: test034
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test034"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test034" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test034" end time: Apr 12 14:09 AEST
+"test034" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/49 Testing: test035
+35/49 Test: test035
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test035"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test035" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test035" end time: Apr 12 14:09 AEST
+"test035" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/49 Testing: test036
+36/49 Test: test036
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test036"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test036" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test036" end time: Apr 12 14:09 AEST
+"test036" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/49 Testing: test037
+37/49 Test: test037
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test037"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test037" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test037" end time: Apr 12 14:09 AEST
+"test037" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/49 Testing: test038
+38/49 Test: test038
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test038"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test038" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test038" end time: Apr 12 14:09 AEST
+"test038" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/49 Testing: test039
+39/49 Test: test039
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test039"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test039" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test039" end time: Apr 12 14:09 AEST
+"test039" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/49 Testing: test040
+40/49 Test: test040
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test040"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test040" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test040" end time: Apr 12 14:09 AEST
+"test040" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/49 Testing: test041
+41/49 Test: test041
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test041"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test041" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test041" end time: Apr 12 14:09 AEST
+"test041" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/49 Testing: test042
+42/49 Test: test042
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test042"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test042" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test042" end time: Apr 12 14:09 AEST
+"test042" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/49 Testing: test043
+43/49 Test: test043
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test043"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test043" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test043" end time: Apr 12 14:09 AEST
+"test043" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/49 Testing: test044
+44/49 Test: test044
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test044"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test044" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test044" end time: Apr 12 14:09 AEST
+"test044" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/49 Testing: test045
+45/49 Test: test045
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test045"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test045" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test045" end time: Apr 12 14:09 AEST
+"test045" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/49 Testing: test046
+46/49 Test: test046
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test046"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test046" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test046" end time: Apr 12 14:09 AEST
+"test046" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/49 Testing: test047
+47/49 Test: test047
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test047"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test047" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test047" end time: Apr 12 14:09 AEST
+"test047" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/49 Testing: test048
+48/49 Test: test048
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test048"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test048" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test048" end time: Apr 12 14:09 AEST
+"test048" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/49 Testing: test049
+49/49 Test: test049
+Command: "/home/yanboyang713/Documents/project/rapidcsv/build/test049"
+Directory: /home/yanboyang713/Documents/project/rapidcsv/build
+"test049" start time: Apr 12 14:09 AEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test049" end time: Apr 12 14:09 AEST
+"test049" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 12 14:09 AEST

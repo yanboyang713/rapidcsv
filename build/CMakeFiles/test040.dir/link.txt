@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -Wextra -Wpedantic -Wshadow -Wpointer-arith                        -Wcast-qual -Wno-missing-braces -Wswitch-default -Wcast-align -Wunreachable-code                        -Wundef -Wuninitialized  -rdynamic CMakeFiles/test040.dir/tests/test040.cpp.o CMakeFiles/test040.dir/tests/test040b.cpp.o  -o test040 
